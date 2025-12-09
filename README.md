@@ -10,7 +10,7 @@
 ---
 
 ### 🔗 Connect with me:
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/khalida0807/"> 
+<a href="https://www.linkedin.com/in/khalida0807/"> 
   <img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 
