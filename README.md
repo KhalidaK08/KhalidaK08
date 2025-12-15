@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khalida</h1>
-<h3 align="center"> Data Analyst | 1.5+ Years Experience in Data Reporting & Analytics</h3>
-
-- 🔭 Data Analyst with **1.5+ years of hands-on experience** in data analysis, reporting, and dashboard development  
+<h3 align="center"> Data Analyst | Data Reporting, Analytics & Insights</h3>
+  
 - 📊 Skilled in **Advanced Excel, SQL, Python, and Power BI** for data cleaning, analysis, and visualization  
 - 🧩 Experienced in translating business requirements into **actionable insights**  
 - 🚀 Actively building and refining **real-world analytics projects**  
