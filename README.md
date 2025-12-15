@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Khalida</h1>
-<h3 align="center">A Passionate Data Analyst</h3>
+<h3 align="center"> Data Analyst | 1.5+ Years Experience in Data Reporting & Analytics</h3>
 
-- 🔭 I’m currently working on **Excel, SQL, Python and Power BI projects**
-- 🌱 I’m learning **SQL**
-- 👯 I’m looking to collaborate on **Analytics & Visualization Projects**
-- 💬 Ask me about **SQL, Excel, Python and Power BI**
+- 🔭 Data Analyst with **1.5+ years of hands-on experience** in data analysis, reporting, and dashboard development  
+- 📊 Skilled in **Advanced Excel, SQL, Python, and Power BI** for data cleaning, analysis, and visualization  
+- 🧩 Experienced in translating business requirements into **actionable insights**  
+- 🚀 Actively building and refining **real-world analytics projects**  
+- 👯 Open to collaborating on **Data Analytics, Automation, and Visualization projects**  
+- 💬 Ask me about **Excel (Advanced), SQL, Python, Power BI, Data Analysis**
+
 - 📫 How to reach me **khalidak08786@gmail.com**
 
 ---
