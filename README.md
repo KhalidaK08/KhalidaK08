@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalida</h1>
 <h3 align="center"> Data Analyst | Data Reporting, Analytics & Insights</h3>
-![Data Analysis Setup](https://raw.githubusercontent.com/username/repo/main/assets/data-analysis.png)
   
 - 📊 Skilled in **Advanced Excel, SQL, Python, and Power BI** for data cleaning, analysis, and visualization  
 - 🧩 Experienced in translating business requirements into **actionable insights**  
