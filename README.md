@@ -3,8 +3,7 @@
   
 - 📊 Skilled in **Advanced Excel, SQL, Python, and Power BI** for data cleaning, analysis, and visualization  
 - 🧩 Experienced in translating business requirements into **actionable insights**  
-- 🚀 Actively building and refining **real-world analytics projects**  
-- 👯 Open to collaborating on **Data Analytics, Automation, and Visualization projects**  
+- 🚀 Actively building and refining **real-world analytics projects**   
 - 💬 Ask me about **Excel (Advanced), SQL, Python, Power BI, Data Analysis**
 
 - 📫 How to reach me **khalidak08786@gmail.com**
