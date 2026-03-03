@@ -6,6 +6,17 @@
 - 🚀 Actively building and refining **real-world analytics projects**   
 - 💬 Ask me about **Excel (Advanced), SQL, Python, Power BI, Data Analysis**
 
+- ## 📊 Featured Projects
+
+🔹 **Revenue Analytics Dashboard**  
+Built a dynamic Power BI dashboard with revenue trends, growth %, and drill-down hierarchy.
+
+🔹 **Sales Performance Analysis (SQL + Excel)**  
+Performed sales trend analysis and automated reporting workflow.
+
+🔹 **Python EDA Project**  
+Analyzed dataset using Pandas, Matplotlib & Seaborn to identify business insights.
+
 - 📫 How to reach me **khalidak08786@gmail.com**
 
 ---
