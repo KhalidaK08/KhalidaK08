@@ -6,6 +6,13 @@
 - 🚀 Actively building and refining **real-world analytics projects**   
 - 💬 Ask me about **Excel (Advanced), SQL, Python, Power BI, Data Analysis**
 
+- ## 🚀 Technical Skills
+
+- **Languages:** Python, SQL  
+- **Visualization:** Power BI  
+- **Tools:** Advanced Excel (Pivot Tables, VBA, Power Query), GitHub  
+- **Core Skills:** Data Cleaning, EDA, KPI Reporting, Dashboard Development, Business Insights  
+
 - ## 📊 Featured Projects
 
 🔹 **Revenue Analytics Dashboard**  
