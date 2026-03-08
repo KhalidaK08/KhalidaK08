@@ -5,15 +5,12 @@
 - 🧩 Experienced in translating business requirements into **actionable insights**  
 - 🚀 Actively building and refining **real-world analytics projects**   
 
-- ## 📊 Featured Projects
+- 📊 Featured Projects
 
-### 📱 PhonePe Transaction Analysis (Python)
-
-### 🛒 E-Commerce Sales Analysis (SQL)
-
-### 📈 CPI Inflation Analysis (Excel)
-
-### 🎬 Netflix Data Analysis Dashboard (Power BI)
+-   📱 PhonePe Transaction Analysis (Python)
+-    🛒 E-Commerce Sales Analysis (SQL)
+-    📈 CPI Inflation Analysis (Excel)
+-    🎬 Netflix Data Analysis Dashboard (Power BI)
 
 - 📫 Contact me at: **khalidak08786@gmail.com**
 
