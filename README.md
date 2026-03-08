@@ -8,28 +8,12 @@
 - ## 📊 Featured Projects
 
 ### 📱 PhonePe Transaction Analysis (Python)
-- Performed data cleaning and Exploratory Data Analysis (EDA) using **Pandas, NumPy, Matplotlib, and Seaborn**.
-- Analyzed transaction trends, payment categories, and state-wise performance.
-- Identified growth patterns and seasonal transaction behaviors.
-- Generated visual reports to support business decision-making.
 
 ### 🛒 E-Commerce Sales Analysis (SQL)
-- Wrote complex **SQL queries** using JOINs, GROUP BY, Subqueries, and Aggregations.
-- Analyzed sales trends, top-performing products, and customer behavior.
-- Calculated revenue, order frequency, and category-wise performance metrics.
-- Optimized queries for efficient data extraction.
 
 ### 📈 CPI Inflation Analysis (Excel)
-- Used **Pivot Tables, Charts, and Data Cleaning techniques**.
-- Analyzed year-over-year inflation trends.
-- Created dynamic dashboards to visualize CPI fluctuations.
-- Derived insights on economic trends and price changes.
 
 ### 🎬 Netflix Data Analysis Dashboard (Power BI)
-- Built an interactive **Power BI dashboard**.
-- Visualized content distribution by genre, country, rating, and release year.
-- Created slicers and drill-down features for better user interaction.
-- Highlighted trends in content growth over time.
 
 - 📫 Contact me at: **khalidak08786@gmail.com**
 
