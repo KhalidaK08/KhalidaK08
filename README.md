@@ -5,7 +5,8 @@
 - 🧩 Experienced in translating business requirements into **actionable insights**  
 - 🚀 Actively building and refining **real-world analytics projects**   
 
-- 📊 Featured Projects
+
+- ## 📊 Featured Projects
 
 -   📱 PhonePe Transaction Analysis (Python)
 -    🛒 E-Commerce Sales Analysis (SQL)
