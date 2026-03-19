@@ -9,9 +9,9 @@
 - ## 📊 Featured Projects
 
 -   📱 PhonePe Transaction Analysis (Python)
--    🛒 E-Commerce Sales Analysis (SQL)
--    📈 CPI Inflation Analysis (Excel)
--    🎬 Netflix Data Analysis Dashboard (Power BI)
+-   🛒 E-Commerce Sales & customer Analysis (SQL)
+-   📈 CPI Inflation Analysis (Excel)
+-   🎬 Movies & TV shows Analysis (Dashboard in Power BI)
 
 - 📫 Contact me at: **khalidak08786@gmail.com**
 
